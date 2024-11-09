@@ -1,0 +1,32 @@
+<html>
+    <title>лол Lab</title>
+    <body style="font-family:sans-serif;">
+        <header style="background-color:Lime;color:black">
+        
+            <img src="https://mars.algoritmika.org/uploads/2020/10/Frame%204_0_1603385959.svg" height="50px"/ id="start">
+            <a href="#games" style="color:black; font-size:20px;">что я делаю?</a>
+            <a href="#price" style="color:black; font-size:20px;">не работает</a>
+        </header>
+
+        <main>
+            <h1>лол Lab</h1>
+            
+            <h2>Студия студия котокая нечего не разрабатывает</h2>
+            <img src="https://mars.algoritmika.org/uploads/2020/10/Vector_0_1603390263.png" width="1500px">
+            <h3>я работаю в школе</h3>
+            <p>текст.</p>
+            <h3>Процесс работы</h3>
+            <p>текст.</p>
+            
+            <h3>Популярность продукта</h3>
+            <p>текст
+
+</p>
+        </main>
+
+        <footer>
+
+        </footer>
+
+    </body>
+</html>
